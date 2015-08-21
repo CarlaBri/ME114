@@ -67,11 +67,13 @@ We will walk you through this process in the Day 1 lab, so don't worry if it see
 
 - [Lecture Notes](day3/ME114_day3.pdf)
 - [Assignment 3 as R markdown](day3/ME114_assignment3_LASTNAME_FIRSTNAME.Rmd)
+- [Assignment 3 **solution** as R markdown](day3/ME114_assignment3_solution.Rmd)
 
 #### Thursday, August 20: Generalized Linear Regression [SM] 
 
 - [Lecture Notes](day4/ME114_day4.pdf)
 - [Assignment 4 as R markdown](day4/ME114_assignment4_LASTNAME_FIRSTNAME.Rmd)
+- [Assignment 4 **solution** as R markdown](day4/ME114_assignment4_solution.Rmd)
 
 #### Friday, August 21: Resampling Methods [SM]
 
